@@ -1,0 +1,6 @@
+        <div style="text-align:center">
+            <figure class="logo">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Akashi-kaikyo_bridge3.jpg/440px-Akashi-kaikyo_bridge3.jpg" width="16%">
+			</figure>
+        </div>
+

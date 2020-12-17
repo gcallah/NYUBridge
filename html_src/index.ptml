@@ -1,0 +1,19 @@
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            NYU Bridge Program
+        </title>
+    </head>
+
+<body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+
+<h1>NYU Bridge Program</h1>
+<p>Here are some documents available on our program:</p>
+<ul>
+<li><a href="docs/Winter2020Syllabus.pdf">A sample syllabus</a></li>
+</ul>
+</body>
+</html>
