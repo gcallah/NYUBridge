@@ -37,11 +37,11 @@ ptml: $(PTMLFILES)
 
 prod: $(INCS) $(HTMLFILES) tests
 	-git commit -a 
-	git pull origin master
-	git push origin master
+	git pull origin main
+	git push origin main
 
 submods:
-	git submodule foreach 'git pull origin master'
+	git submodule foreach 'git pull origin main'
 	
 nocrud:
 	rm *~
