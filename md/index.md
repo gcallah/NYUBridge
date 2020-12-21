@@ -14,7 +14,8 @@
 
 Here are some documents available on our program:
 
-- [A sample syllabus](docs/Winter2020Syllabus.pdf)
+- [Course recommendations upon entering the MS program](course_seq.html)
+- [A sample syllabus for the Bridge program](docs/Winter2020Syllabus.pdf)
 
 </body>
 </html>
