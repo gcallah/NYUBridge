@@ -20,9 +20,9 @@ In your first semester, you should choose among:
 -  Computer Networking
 -  Operating Systems
 -  Introduction to Security and Privacy
--  Human-Conputer Interaction
+-  Human-Computer Interaction
 -  Visualization
--  Architecture
+-  Computer Architecture
 
 In your second semester, pick among the following (as well as courses from the
 1st semester list):
