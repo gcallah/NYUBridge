@@ -28,6 +28,7 @@ In your second semester, pick among the following (as well as courses from the
 1st semester list):
 
 -  Databases
+- Programming Languages
 -  Network Security
 -  Algorithms (Only if you got a B+ in foundations or better, otherwise
 independent work on these concepts is required.)
