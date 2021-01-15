@@ -20,6 +20,7 @@ overview](https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge/compu
 - [CS MS
 overview](https://engineering.nyu.edu/academics/programs/computer-science-ms)
 - [Course recommendations upon entering the MS program](course_seq.html)
+- [CS Pathways](docs/CSPathways.pdf) (courtesy of Kayla Huang)
 - [CyberSecurity
 MS](https://engineering.nyu.edu/academics/programs/cybersecurity-ms-campus)
 - [NYU CyberFellows
