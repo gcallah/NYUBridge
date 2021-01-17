@@ -27,11 +27,11 @@ In your first semester, you should choose among:
 In your second semester, pick among the following (as well as courses from the
 1st semester list):
 
--  **Algorithms** (only if you got a B+ in foundations or better, otherwise
+-  **Algorithms** (only if you got a B+ or better in Foundations, otherwise
+independent work on these concepts is required.)
 -  Principles of Database Systems
 - Programming Languages
 -  Network Security
-independent work on these concepts is required.)
 -  Intro to Data Science
 -  Cloud computing
 -  Distributed computing
